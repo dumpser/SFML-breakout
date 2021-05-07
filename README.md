@@ -1,2 +1,2 @@
 # sfml-breakout
-[My image](dumpser.github.com/sfml-breakout/blob/master/Screenshot.png)
+[My image](dumpser.github.com/sfml-breakout/Screenshot.png)
